@@ -1,0 +1,3336 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 10,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 554.8180893039987,
+			"y": 564.9292243285477,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:X408QXh7yRgLv3YYDCo2p",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.0268268302178756,
+				"scaleY": 1.0349789199313857
+			},
+			"parentId": "page:page",
+			"index": "aFjcUsFG",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 148.7813705241956,
+			"y": 1821.7156795942724,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jCC8YRj8c8ruyr6kSlqLi",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 343.6875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Anomaly Detection"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Predictive maintenance"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Forecasting"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Quarterly sales"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL1zqo2l",
+			"typeName": "shape"
+		},
+		{
+			"x": 22099.96461266833,
+			"y": 725.2235989234714,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G_hJKDmILROgdt2E_iJ_j",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/qkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkiqyAAAqkwAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkwAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkwAAAAAqkgAAAAAqkgAAAAAqkwAAAAAqkwAAAAAqkwAAAAArEgAAAAAqkwAAAAAqkwAAAAAqkwAAAAAqkgAAAAAqkwAAAAA/04AAAAAqkgAAAAAqkwAAAAAqkwAAAAAqlAAAAAAqkwAAAAAqkwAAAAA/04AAAAA/04AAAAAqkwAAAAAqkwAAAAAqkwAAAAA/04AAAAAqkwAAAAA/04AAAAAqkgAAAAAqkwAAAAA/04AAAAA/04AAAAA1VEAAAAAqkgAAAAA/04AAAAAqkwAAAAAAE8AAAAA1VEAAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAA/04AAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAA1VEAAAAA/04AAAAAqkwAAAAA/04AAAAAqlAAAAAAqkgAAAAA/04AAAAA/04AAAAAqkwAAAAA1VEAAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAA/04AAAAAqlAAAAAAqkwAAAAA/04AAAAAqkwAAAAAqkgAAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAAqkwAAAAAqkgAAAAAqkwAAAAAqkwAAAAAqkwAAAAAqlAAAAAAAE8AAAAAqkwAAAAAqkgAAAAAqkwAAAAAqkgAAAAAqkwAAAAAqkwAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ateIqieV",
+			"typeName": "shape"
+		},
+		{
+			"x": 6685.022513249203,
+			"y": 1779.5838406209482,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:a9DfruYbvjeqfdBvpIMYX",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 1006.734375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.870553470869962,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "These below are essentialy the individuals that a particular message belongs to"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aeyXa60V",
+			"typeName": "shape"
+		},
+		{
+			"x": 11123.887371318198,
+			"y": 35.457723507058745,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DiWdl6257qIEmGXIyZvah",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AAB8SQAAAAB8SQAAAAB8SQAAfMkAAAAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB7SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfEl8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAfEkAAAAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMl8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMkAAAAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMl8SQAAAAB7SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMkAAAAAAAB8SQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 0.16929018791158684,
+				"scaleY": 0.9377613504594613
+			},
+			"parentId": "page:page",
+			"index": "ai9B6wlV",
+			"typeName": "shape"
+		},
+		{
+			"x": 21993.561140449947,
+			"y": 1929.982656106491,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MM1v9rYvoMiSMcvUsTiBN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 360.703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 4.945155130463316,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Be clear and specific"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Include examples"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Provide relevant context"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Experiment and refine"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "avOycKCV",
+			"typeName": "shape"
+		},
+		{
+			"x": 614.0095751773999,
+			"y": 424.0210177499481,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7ibQ_A3A9tRxcaXSEYmB1",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.5212069870901503,
+				"scaleY": 1.5684074488850321
+			},
+			"parentId": "page:page",
+			"index": "a6gKk7nV",
+			"typeName": "shape"
+		},
+		{
+			"x": 286.2117656007244,
+			"y": 328.4333264969724,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SVHuORiE_I1q54oVRdi2x",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 327.59375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Artificial Intelligence (AI)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3fSiasV",
+			"typeName": "shape"
+		},
+		{
+			"x": -19345.411836995587,
+			"y": 2128.8920576774126,
+			"z": 0.10717944050000006,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 13144.83225830826,
+			"y": -360.116693186279,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WvzBGsL1BGuRK3zUKWb-R",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 7418.83086405409,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 7.473188860148767,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Using Azure OpenAI .NET SDK"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "alLrT60V",
+			"typeName": "shape"
+		},
+		{
+			"x": 310.3865716383033,
+			"y": 420.0431177972715,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4NEwqDxjeFQxuYBRU53xQ",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 284.765625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Machine Learning (ML)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8BnqGCV",
+			"typeName": "shape"
+		},
+		{
+			"x": 166.06030921252358,
+			"y": 910.6443669369775,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5ktKdmEbnk0F34bA2onlA",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 879.09375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "AI - Agents automating tasks usually executed manually"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "by humans"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Machine Learning - Systems that use algorithms and data"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "to infer patterns"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Deep Learning - Machine Learning technique where algorithms known"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "as neural network"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Generative AI - Use of deep learning algorithms to generate "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "new content (text, images, etc.)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aHGUay9G",
+			"typeName": "shape"
+		},
+		{
+			"x": 379.2307013367421,
+			"y": 817.4640807918058,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hUeg1eBwKqOtIV2lkWX3Q",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAMAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAwAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.0268268302178756,
+				"scaleY": 1.0349789199313857
+			},
+			"parentId": "page:page",
+			"index": "aDqYr5ZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 145.63974530813596,
+			"y": 1721.183672680364,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dVT6R8jB8zq02p1-axGb_",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 645.875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Classification"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Label the severity of a customer reported issue"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKS3Y1WV",
+			"typeName": "shape"
+		},
+		{
+			"x": 3512.5365877317267,
+			"y": 319.20554694121404,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:lidS-cZW1hgviwb3jKq1e",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 64.65625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.0674705472684844,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Tools"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aR4e94lV",
+			"typeName": "shape"
+		},
+		{
+			"x": 6495.4219589422655,
+			"y": 1931.6047369391154,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-hGR74Nl0M7HgE36v2L_a",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 3303.458369860838,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 3.4672877143645637,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "System                                                 User                                   Assistant"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "adqiK0Ul",
+			"typeName": "shape"
+		},
+		{
+			"x": 22100.887418364044,
+			"y": 1663.565095963504,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sFuJ5suSqq_u62v4nwuKu",
+			"type": "text",
+			"props": {
+				"color": "yellow",
+				"size": "m",
+				"w": 330.546875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 6.6483581754776715,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Tips for improving prompts"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "auhgoCqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 18680.132280940445,
+			"y": 2170.5110511305093,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:fqfhfSj5YoII44s630y5y",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 2971.4024656530746,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 4.9255292238026565,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Usually, input and output results from "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "prompting to models, are known as completions."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "apLVKiSV",
+			"typeName": "shape"
+		},
+		{
+			"x": 614.0095751773999,
+			"y": 424.0210177499481,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gwGbzjs_xjv_VdJjmX1zG",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.5212069870901503,
+				"scaleY": 1.5684074488850321
+			},
+			"parentId": "page:page",
+			"index": "a7JbuKaV",
+			"typeName": "shape"
+		},
+		{
+			"x": 22099.96461266833,
+			"y": 298.5017918389067,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dWwRdk7FLf-8cC7MJ9oUw",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 2157.2927340232445,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 6.761017333993813,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The Anatomy of a prompt"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aqOTvLUG",
+			"typeName": "shape"
+		},
+		{
+			"x": 585.960207382544,
+			"y": 504.24954297757483,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-JykH9L7aImo0NH7kcxQV",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.279765515129272,
+				"scaleY": 1.2710866294682452
+			},
+			"parentId": "page:page",
+			"index": "aBF8VKeV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1218.9202185616628,
+			"y": 182.8976670276569,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:e_Lc-62wDGY_-nrtyLTF3",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADmQwAAAADsQwAAAADmQwAAAADsQwAAAADmQwAAAADsQwAAAADmQwAAAADsQwAAAADmQwAAAADsQwAAAADmQwAAAADsQwAAAADmQwAAAADmQwAAAADpRwAAAADsQwAAAADmQwAAAADpRwAAAADsQwAAAADpRwAAAADmQwAAAADpRwAAAADmQwAAAADpRwAAAADpRwAAAADsQwAAAADuSQAAAADsQwAAAADmRwAAAADvSQAAAADpRwAAAADpRwAAAADpRwAAAADmQwAAAADxTAAAAADpRwAAAADvSQAAAADuSQAAAADsQwAAAADmRwAAAADvSQAAAADuSQAAAADvSQAAAADmQwAAAABzUAAAAADvSQAAAADuSQAAAADpRwAAAADuSQAAAADpSwAAAADuSQAAAADpSwAAAADvSQAAAADpSwAAAADxTAAAAADpSwAAAADpSwAAAADuSQAAAADxTAAAAABwUQAAAADyTAAAAADxTAAAAADpRwAAAADxTAAAAADsTgAAAADvSQAAAADxTAAAAABzUAAAAADxTAAAAADsTgAAAADuSQAAAADxTAAA5kPyUAAAAADpRwAAAADvTQAAAABzUAAAAADsTgAAAABwUQAAAADvTQAA7EPsTgAAAADmQwAAAADsTgAAAADxUAAAAADsTgAA5kPsTgAAAADmQwAAAADyTAAA7EPuUQAAAADsTgAAAADyTAAAAADmRwAAAADvTQAAAADvUQAAAADxTAAAAADxTAAAAADvSQAAAADxTAAAAADxTAAA5kPvSQAAAADuTQAAAADyUAAAAADvTQAAAADpSwAAAADuSQAAAADxTAAAAADpSwAAAADpSwAAAADpSwAAAADpSwAAAADuSQAAAADpSwAAAADpSwAAAADoTwAAAADvSQAAAADpSwAAAADuSQAAAADuSQAAAADpSwAAAADvSQAAAADuSQAAAADpRwAAAADpSwAAAADuSQAAAADpRwAAAADxTAAAAADvSQAAAADpRwAAAADuSQAAAADpRwAAAADuSQAAAADsQwAAAADpRwAA5sPuSQAAAADpRwAAAADpRwAAAADpSwAAAADpRwAAAADuSQAAAADsQwAAAADmQwAA7MPpRwAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aNQfBjbV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:sFuJ5suSqq_u62v4nwuKu"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 353.88318038498426,
+			"y": 806.712435277896,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uV_8m335RXt1gVGTgzmDq",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAMAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAwAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.5212069870901503,
+				"scaleY": 1.5684074488850321
+			},
+			"parentId": "page:page",
+			"index": "a5ZvqHzl",
+			"typeName": "shape"
+		},
+		{
+			"x": 643.4616030970244,
+			"y": 326.25930890671367,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QtYy1VdYMQ-UYx5TSudKW",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.8009725022194216,
+				"scaleY": 1.9488032031388625
+			},
+			"parentId": "page:page",
+			"index": "a4YzTbzt",
+			"typeName": "shape"
+		},
+		{
+			"x": -240.7485670938952,
+			"y": -128.3092521536896,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:V1EhTl1iBZvKKjQXlA5o8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 230.96875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 6.008688625725573,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Introduction to AI"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aZLyUHhl",
+			"typeName": "shape"
+		},
+		{
+			"x": 5343.472836784527,
+			"y": 700.2789696401323,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EVKX8Qjt96ZhstFHZ8YwT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 432.2014127436635,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 2.545187956573625,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "General Pretrained Transformers (GPT) is a general-purpose Generative AI model that can"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " be used for a wide range of language related tasks"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aXf2CEfV",
+			"typeName": "shape"
+		},
+		{
+			"x": 643.4616030970244,
+			"y": 326.25930890671367,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Gv1uL4pz5JDam6mptydxe",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.8009725022194216,
+				"scaleY": 1.9488032031388625
+			},
+			"parentId": "page:page",
+			"index": "a2xqFh5V",
+			"typeName": "shape"
+		},
+		{
+			"x": 6208.3177423250445,
+			"y": 3183.0341321469487,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-btYwHB_w9b1wBqOPS3ca",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 2640.085198811614,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 4.942483086873561,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "other part that sets ChatGPT apart from just GPT in general"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "is a Chat and Message History, and how it leverages this "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "messages history as context."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "What the context does is it provides better user experience by"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "having context for further conversations and generating more"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "accurate or relevant responses."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "akcaSS8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 22116.734574064,
+			"y": 546.0524442938596,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:r9TqsOLWJsYZq_aH2KfDM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 2653.471135144618,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 5.167421879541613,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Question / Instruction - Defines behavior"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Context - Provides relevant details"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Examples - Provides additional guidance"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "on formatting the response"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "arCU7HuG",
+			"typeName": "shape"
+		},
+		{
+			"x": 7776.0516964429635,
+			"y": 2090.2544677239216,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pbt1uUbrQqjsxfwwX82QB",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 1190.3306068584382,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.9085659300145097,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The user is the person or system"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "interacting with the assistant, "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "providing input and receiving"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "responses"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "agAi4Q6V",
+			"typeName": "shape"
+		},
+		{
+			"x": 3508.6757230702115,
+			"y": 787.6089894974343,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rhdsvyLXD14-yiQoFGynl",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 642.234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.123947020945404,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "training custom machine learning models or"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "deep learning models"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and Polyglot Notebooks helps experimental process"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and write code in general."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aVFhfaVV",
+			"typeName": "shape"
+		},
+		{
+			"x": 140.92730748404642,
+			"y": 1604.9435396861575,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:q-9LGVgFfYUkGIew1Xl3V",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 513.453125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Computer Vision"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Identify objects in an image or video"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJ6LmhsV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2183.0679828712373,
+			"y": -127.09656657754203,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vv-sJPippb5NlqS8GI20V",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 2373.9665822043753,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 4.686857551935097,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "!!! GETTING STARTED .NET DEVELOPER !!!"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aM1oKq0V",
+			"typeName": "shape"
+		},
+		{
+			"x": 18516.599382326982,
+			"y": 362.93187375166326,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:03DH9xWQ2HK98vh2m9f4T",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 651.8212735709953,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 4.744661267095978,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Prompt - A statement or question that is used to generate a response from a language model. The prompt is the input that the model receives, and the response is output generated by the model."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Prompt Engineering - Prompt engineering is the process of creating and improving prompts. The goal is to make prompts that are clear and unambigous. By doing so, models are more likely to generate more relevant detailed responses."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aoiGOhdV",
+			"typeName": "shape"
+		},
+		{
+			"x": 22090.634465064133,
+			"y": 893.1662557989757,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Xuh5Ls4KSkR-YnbH28n4Q",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/qkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkiqyAAAqkwAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkwAAAAAqkgAAAAAqkgAAAAAqkgAAAAAqkwAAAAAqkgAAAAAqkgAAAAAqkwAAAAAqkwAAAAAqkwAAAAArEgAAAAAqkwAAAAAqkwAAAAAqkwAAAAAqkgAAAAAqkwAAAAA/04AAAAAqkgAAAAAqkwAAAAAqkwAAAAAqlAAAAAAqkwAAAAAqkwAAAAA/04AAAAA/04AAAAAqkwAAAAAqkwAAAAAqkwAAAAA/04AAAAAqkwAAAAA/04AAAAAqkgAAAAAqkwAAAAA/04AAAAA/04AAAAA1VEAAAAAqkgAAAAA/04AAAAAqkwAAAAAAE8AAAAA1VEAAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAA/04AAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAA1VEAAAAA/04AAAAAqkwAAAAA/04AAAAAqlAAAAAAqkgAAAAA/04AAAAA/04AAAAAqkwAAAAA1VEAAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAA/04AAAAAqlAAAAAAqkwAAAAA/04AAAAAqkwAAAAAqkgAAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAAqkwAAAAA/04AAAAA/04AAAAAqkwAAAAA/04AAAAAqkwAAAAAqkgAAAAAqkwAAAAAqkwAAAAAqkwAAAAAqlAAAAAAAE8AAAAAqkwAAAAAqkgAAAAAqkwAAAAAqkgAAAAAqkwAAAAAqkwAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "asqOlh9V",
+			"typeName": "shape"
+		},
+		{
+			"x": 2224.0021990572354,
+			"y": 487.84064717750334,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QwJfzZh-uGtIfPWmv6KD6",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 958.3266188002868,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.941652007193186,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Semantic Kernel"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ML.NET"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Automated Machine Learning"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "(AutoML)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "TorchSharp"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "SciSharp ("
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "http://TensorFlow.NET",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "TensorFlow.NET"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Open Neural Network Exchange (ONNX)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Plody.NET"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aPztIUdd",
+			"typeName": "shape"
+		},
+		{
+			"x": 585.960207382544,
+			"y": 504.24954297757483,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:fbxgY3sdY4ILJAybJlsWI",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.279765515129272,
+				"scaleY": 1.2710866294682452
+			},
+			"parentId": "page:page",
+			"index": "aATxEWvV",
+			"typeName": "shape"
+		},
+		{
+			"x": 3513.5357761175405,
+			"y": 506.48633572012454,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:NIuadl5dZTLdrtJeB6ZQG",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 239.71875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.8520573291392515,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model Builder"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ML.NET CLI"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Polyglot Notebooks"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aS11XMpV",
+			"typeName": "shape"
+		},
+		{
+			"x": 5522.506616464678,
+			"y": 1535.8188101985074,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2FlIoUYRtzu1mG675X_dd",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 194.875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.9866937124388113,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Roles"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Chat / Message"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "abwD84zG",
+			"typeName": "shape"
+		},
+		{
+			"x": 354.9191090759487,
+			"y": 483.66102842247915,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VJ95JuyL5KCfQHMaGFzsY",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 177.484375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Deep Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCUs4Ffl",
+			"typeName": "shape"
+		},
+		{
+			"x": 360.00854192596523,
+			"y": 657.9741035355481,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GH7RI-tPbOuz6JaOrKri0",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 178.265625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Generative AI"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGUfIVdG",
+			"typeName": "shape"
+		},
+		{
+			"x": 554.8180893039987,
+			"y": 564.9292243285477,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GdwckapOn-ZWN9YqHzKMa",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAADwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAPAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAAAAAPAAAALwAAAAAALwAPAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAPAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAAAAAvAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.0268268302178756,
+				"scaleY": 1.0349789199313857
+			},
+			"parentId": "page:page",
+			"index": "aECXqSQV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2211.4168913880562,
+			"y": 1043.3520443061589,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5pT7MOQpFsIj3hN7Eu6xM",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 1236.657783564078,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.7546689608500199,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Working with Generative AI models,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ML.NET training custom ML models,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "AutoML, TorchSharp, SciSharp (Libraries)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "supports training custom and deep learning models,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ONNX helps when inferencing and bringing models, train"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "another platforms over to .NET"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Plotly.NET for graphing and visualizing data"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aU0St9WV",
+			"typeName": "shape"
+		},
+		{
+			"x": 9254.912788329118,
+			"y": 2095.4900494783988,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Gi1PhckYNZS8p3YHKPemK",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 1438.4221914201444,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.9085659300145097,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The assistant is the AI chatbot"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "itself, which uses GPT's language"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "model to generate responses to the"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "user's input in a conversational manner"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ahso9bYV",
+			"typeName": "shape"
+		},
+		{
+			"x": 6202.852726804026,
+			"y": 2103.6072304930935,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eU3XgHRb2MtthylKxELLP",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 1242.3212228574475,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.9085659300145097,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Provides the guidance for the"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "assistant, defines its capabilities,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "limitations, and behavior."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "It sets the rules and instructions "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "that the assistant follows when "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "generating responses to the "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "user's input. "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "afZDs8YV",
+			"typeName": "shape"
+		},
+		{
+			"x": 367.12030429543853,
+			"y": 814.3946805678266,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ef4I_uHDgonaoCN5q6R4w",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAMAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAwAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.279765515129272,
+				"scaleY": 1.2710866294682452
+			},
+			"parentId": "page:page",
+			"index": "a93ola1V",
+			"typeName": "shape"
+		},
+		{
+			"x": 1320.1505570330846,
+			"y": 367.5562081248597,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nkfNPGRoMnDptIxgW6UhN",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 303.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.1552165241611743,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Services"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Azure OpenAI"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Azure Cognitive Services"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aOTnGb0V",
+			"typeName": "shape"
+		},
+		{
+			"x": 5910.133481029027,
+			"y": 1765.3725363507956,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6py5XcHBuoDpGWSteS1oP",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 213.640625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 3.2429888312405204,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Roles in ChatGPT"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aczlaiql",
+			"typeName": "shape"
+		},
+		{
+			"x": 12493.672265353083,
+			"y": 598.4774932103956,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mAJZXCHqISlfTQot8M6j9",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ajPSCSjV",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:color": "black"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "move",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 742,
+				"h": 918
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 2234.3122938331767,
+			"y": 350.372716831625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6qd6fiCPhxx9yGlAdG2EZ",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 292.578125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.061016346133166,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Frameworks & Libraries"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aQXgBQVV",
+			"typeName": "shape"
+		},
+		{
+			"x": 335.4953052175033,
+			"y": 801.7672904725961,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:X3ZHzDABuawQudKCVdAvW",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAMAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAALwAvAAAAAAAvAAAALwAvAAAAAAAvAAAALwAAAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAALwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAwAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAvAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAAAAAvAAAADwAvAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAAAAAvAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAvAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAvAAAADwAAAAAAEAAAAAAAAAAvAAAADwAvAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAvAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAPAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAPAAAADwAAAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAADwAAAAAAAAAPAAAAAAAPAAAADwAAAAA"
+					}
+				],
+				"color": "blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.8009725022194216,
+				"scaleY": 1.9488032031388625
+			},
+			"parentId": "page:page",
+			"index": "a1Lo8KnV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1332.8114389550688,
+			"y": 691.9953855803219,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DXzaWINBrnBVDdCphcGRx",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 388.35759110063333,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.7546689608500199,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Description:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Performing tasks "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "with AI power"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aTbiOupV",
+			"typeName": "shape"
+		},
+		{
+			"x": 7596.144101045225,
+			"y": -216.09030099806114,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:bNmr_FTRKreaUsceTCgsh",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 855.240289307533,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 6.509557488298136,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "About ChatGPT"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aY39B2pV",
+			"typeName": "shape"
+		},
+		{
+			"x": 147.21055791616578,
+			"y": 1348.9010845772968,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8BVdp3saUejRBJJkj4Yfu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 545.578125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "What can you do with AI and ML?"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Language"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Analyze sentiment of customer reviews"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Virtual Agents / Chatbots"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Translate text or code"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Explaining Code"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aIzfbIXl",
+			"typeName": "shape"
+		},
+		{
+			"x": 5338.035896846884,
+			"y": 1308.4479232277367,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VGfm-NzCqThXrQ9CYztCC",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 520.828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.6555780936990026,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ChatGPT now, is built on top of \"GPT\" and"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "is designed for conversational tasks"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aajhFJxV",
+			"typeName": "shape"
+		},
+		{
+			"x": 5181.283516079507,
+			"y": 113.8424026219036,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cPgUKVFVPfNeNEjQW1EiT",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB8SwAAAAB7RwAAAAB8SwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB8SwAAAAB9RwAAAAB8SwAAAAB7RwAAAAB8SwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB8SwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB8SwAAAAB9RwAAAAB8SwAAAAB8SwAAAAB7RwAAAAB9RwAAAAB7RwAAAACdTQAAAAB7RwAAAAB8SwAAAAB9RwAAAAB8SwAAAAB8TwAAAACdTQAAAAB9RwAAAAB8SwAAAAB8SwAAAAB8SwAAAAB8SwAAAACdTQAAAAB8SwAAAAB8SwAAAAB8SwAAAAB8SwAAAAB9RwAAAACdTQAAAAB8SwAAAAB8SwAAAAB8SwAAAACuUAAAAAB8SwAAAAB8SwAAAAB8SwAAAACdTQAAAACdTQAAAAB8SwAAAACdTQAAAAB8SwAAAAB8SwAAAAB8SwAAAACdTQAAAAB9RwAAAAB8SwAAAAB8SwAAAACdTQAAAAB8SwAAAAB8TwAAAAB9RwAAAACtUAAAAAB8SwAAfUedTQAAAAB8SwAAAAB8SwAAAAB8SwAAAAB8SwAAAAB8SwAAAAB8SwAAAAB8SwAAAACdTQAAAAB8SwAAAAB8SwAAAAB9RwAAAAB8SwAAAAB8SwAAe0edTQAAAAB9RwAAAAB7RwAAAAB9RwAAAACdTQAAAAB9RwAAAAB8SwAAAAB7RwAAAAB8SwAAAAB9SwAAAAB7RwAAAAB8SwAAAAB9RwAAAAB8SwAAAAB7RwAAAAB9RwAAAAB8SwAAfUd7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAe0cAAAAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAe8d7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAfcd9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAAAB9RwAAAAB7RwAAe8cAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aWGLneqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 17870.575457344137,
+			"y": -15.912997960142548,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3RhC8e69jJTnTvJnl6kec",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AAB8SQAAAAB8SQAAAAB8SQAAfMkAAAAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB7SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfEl8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAfEkAAAAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8TQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMl8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMkAAAAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMl8SQAAAAB7SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAAAB8SQAAfMkAAAAAAAB8SQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 0.16929018791158684,
+				"scaleY": 0.9377613504594613
+			},
+			"parentId": "page:page",
+			"index": "amdBDpYV",
+			"typeName": "shape"
+		},
+		{
+			"x": 19424.977281279822,
+			"y": -492.4329735776473,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qHrgT_ZU-N_KL8GFrubJ-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 4315.272694997545,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 8.096433774437656,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "What are prompts and prompt engineering"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "anz3vp6l",
+			"typeName": "shape"
+		}
+	]
+}
