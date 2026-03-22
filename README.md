@@ -12,7 +12,11 @@ A TLDR roadmap file where I map my AI learning journey, keeping concise notes an
 
 ### .NET-roadmap-overview.tldr
 
-A TLDR roadmap file where I map my .NET and Software Engineering progress through this repository's applicatoins, keeping concise notes and drawings that help me understand concepts and technical topics with higher accuracy and make best trade-off decisions in Software Engineering and .NET development.
+A TLDR roadmap file where I map my .NET mastering progress through this repository's applicatoins, keeping concise notes and drawings that help me understand concepts and technical topics with higher accuracy following best practices developing in the .NET ecosystem.
+
+### .SoftwareEngineer-roadmap-overview.tldr
+
+A TLDR roadmap file where I map my Software Engineer and System Design progress through this repository's applicatoins, keeping concise notes and drawings that help me understand concepts and technical topics with higher accuracy and make best trade-off decisions for Systems in Software Engineer and System's Architectures.
 
 ## Purpose
 

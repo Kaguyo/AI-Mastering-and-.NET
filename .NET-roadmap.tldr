@@ -1,0 +1,529 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 10,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": -95.43575236695636,
+			"y": 144.90956545087647,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nbHvcv1hzVdcd_5Qudjws",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 230.0625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MotorcycleFactory"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a5jRgc1V",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 1127.2290187683632,
+			"y": 357.5279238478687,
+			"z": 0.7036841083428725,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": -447.89638809692246,
+			"y": 45.72056983200531,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:oy2ChQ-WO4fO1FNsTDU6f",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAAAADhvAAA4bwAAAAA17wAAAAAAADXvAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAAAADhvAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAAAADhvAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAAAADXvAAAAADhvAAA17wAAAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAA4bwAAAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADXvAAAAADhvAAA4bwAAAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAA17wAAAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAAAADXvAAAAADhvAAAAADhvAAA1zwAAAAAAADXvAAAAADhvAAA4TwAAAAAAADXvAAAAADhvAAA4TwAAAAA1zwAAAAAAADhvAAAAADXvAAA4TwAAAAAAADhvAAA4TwAAAAA1zwAAAAAAADhvAAA4TwAAAAA1zwAAAAA4TwAAAAAAADXvAAA4TwAAAAAAADhvAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAAAADXvAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAAAADhvAAAAADhvAAAAADXvAAA4TwAAAAAAADhvAAAAADhvAAAAADXvAAA1zwAAAAAAADhvAAAAADhvAAAAADXvAAA4TwAAAAAAADhvAAAAADXvAAA4TwAAAAAAADhvAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAA4TwAAAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAA1zwAAAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAAAADhPAAAAADXPAAAAADhPAAAAADhPAAAAADXPAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAAAADhPAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAA17wAAAAA4bwAAAAA4bwAAAAA17wAAAAA4bwAAAAAAADhPAAA4bwAAAAA17wAAAAA4bwAAAAA"
+					}
+				],
+				"color": "violet",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a2UwPB0l",
+			"typeName": "shape"
+		},
+		{
+			"x": -315.78537064525096,
+			"y": -90.92588787764214,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gJQNbuUVDHFOroVWLHkHZ",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 676.9375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "This project implements the Factory Design Pattern,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "separating concerns about data creation and usage,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "following best practices to keep clean, legible, flexible"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and extensible code"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aAjDyqvV",
+			"typeName": "shape"
+		},
+		{
+			"x": -499.1062648797193,
+			"y": -129.2953773685773,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5TnSBAi55BDI62uKdGw23",
+			"type": "text",
+			"props": {
+				"color": "violet",
+				"size": "m",
+				"w": 191.859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "This Repository"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9K2ufmV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": -423.57038627984105,
+			"y": -44.285636891195736,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LupPV5CMeYPb74g4ZjWRq",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADhPAAAAADXPAAAAADhPAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAAAADhvAAAAADXvAAAAADhvAAA"
+					}
+				],
+				"color": "violet",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a3KP41RV",
+			"typeName": "shape"
+		},
+		{
+			"x": -175.445167745611,
+			"y": 216.00258255157485,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ysScii9-J9Fi8P-lOEynw",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAAAADhvAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAAAADhPAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a8l1hjmV",
+			"typeName": "shape"
+		},
+		{
+			"x": -95.43575236695636,
+			"y": 199.64306953930952,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Q4eLhivSUvUwPJv2dwb1o",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 273.578125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MotorcycleFactory.sln"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a7A9AdSV",
+			"typeName": "shape"
+		},
+		{
+			"x": -297.34156744873184,
+			"y": 58.552259000237626,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6AfSRWnBblMDuK_tWSM7Q",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 230.0625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MotorcycleFactory"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1VQLErV",
+			"typeName": "shape"
+		},
+		{
+			"x": -377.3509828273865,
+			"y": 74.91177201250292,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UQh4Qp3U2E4XEittuWgiZ",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAAAADhvAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAAAADhPAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a4aD0TlV",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"x": -175.445167745611,
+			"y": 161.2690784631418,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wzn80n0dtyjyv7a4Z8rr8",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAAAADhvAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA4TwAAAAA1zwAAAAA4TwAAAAA1zwAAAAAAADhPAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a6PAqKnV",
+			"typeName": "shape"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:color": "light-blue"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1702,
+				"h": 775
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		}
+	]
+}
