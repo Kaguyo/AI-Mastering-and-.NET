@@ -1,4 +1,5 @@
 ﻿using DelegateTurnGame.Core.Characters.MovesetFactory.Interface;
+using DelegateTurnGame.Core.Characters.MovesetFactory;
 using DelegateTurnGame.Utils;
 using System;
 using System.Collections.Generic;
@@ -29,7 +30,6 @@ namespace DelegateTurnGame.Core.Characters
         {
             return new Character
             {
-
                 Name = character.ToString(),
                 SymbolicColor = ResolveColor(character),
                 Hp = ResolveHp(character),
@@ -38,6 +38,7 @@ namespace DelegateTurnGame.Core.Characters
                 Spd = ResolveSpd(character),
                 CritDmg = 100f,
                 CritRate = 10f,
+                Moveset = MovesetFactory.MovesetFactory.Create(character),
                 Sp = 0
             };
         }

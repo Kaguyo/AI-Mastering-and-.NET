@@ -10,7 +10,7 @@ namespace DelegateTurnGame.Core.Systems.Combat
         {
             float damage = 0f;
 
-            foreach (var hit in self.hits)
+            foreach (var hit in self.Moveset.Moves)
             {
                 float baseDamage = 0f;
                 baseDamage += Math.Max(self.Atk - target.Def, 0f);
